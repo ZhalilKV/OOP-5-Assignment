@@ -58,5 +58,5 @@ Select an option: 3
 Exiting the program.
 
 UML DIAGRAM
+![Снимок экрана 2025-02-25 204918](https://github.com/user-attachments/assets/fb880ed4-3fa4-49bb-9934-499720b4bcd0)
 
-![alt text](<Снимок экрана 2025-02-25 204918-1.png>)
